@@ -1,0 +1,7 @@
+.maincomp_flexdivs{
+  flex:33.33%; background-color:rgba(240, 240, 240, 0.8); margin:10px; border-radius:5px;
+}
+
+.maincomp_flexdivs-spans{
+  margin:5px; font-size:large; font-weight:bold; padding:19px 20px 16px;
+}

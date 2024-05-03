@@ -1,0 +1,14 @@
+
+.drop_area{
+  margin: 5px;
+  width: 90%;
+  height: 100px;
+  padding: 15px;
+  border: 1px dashed black;
+  opacity: 1;
+  transition: all 0.2s ease-in-out;
+}
+
+.hide_drop{
+  opacity: 0;
+}
